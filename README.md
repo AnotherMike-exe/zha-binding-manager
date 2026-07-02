@@ -53,4 +53,4 @@ MIT
 
 ---
 
-**Maintainer**: Plum Solutions
+**Repository**: https://github.com/AnotherMike-exe/zha-binding-manager · **Maintainer**: Plum Solutions

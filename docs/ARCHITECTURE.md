@@ -139,7 +139,7 @@ Python package (`pyproject.toml`, entry point `zha-manager`); typically run with
 
 - **Project Name**: ZHA Binding Manager
 - **Primary Contact/Team**: Plum Solutions
-- **Repository URL**: [TODO]
+- **Repository URL**: https://github.com/AnotherMike-exe/zha-binding-manager
 
 ## 11. Glossary
 
