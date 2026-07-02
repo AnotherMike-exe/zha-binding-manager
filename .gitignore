@@ -1,0 +1,51 @@
+# Development resources (NOT in version control)
+_resources/
+
+# --- Project secrets & runtime data ---
+# config.json contains the HA long-lived token
+config.json
+# regenerated on every pull
+zha_bindings_edit.json
+# immutable snapshots (local state)
+pulls/*.json
+# saved + resume plans (local state)
+plans/*.json
+!pulls/.gitkeep
+!plans/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+htmlcov/
+coverage/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Claude Code local (machine-specific) settings
+.claude/settings.local.json
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.log

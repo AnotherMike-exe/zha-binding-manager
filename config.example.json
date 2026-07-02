@@ -1,0 +1,8 @@
+{
+  "ha_url": "http://192.168.x.x:8123",
+  "token": "your_long_lived_token",
+  "editor": "nano",
+  "pulls_dir": "pulls",
+  "plans_dir": "plans",
+  "edit_file": "zha_bindings_edit.json"
+}
